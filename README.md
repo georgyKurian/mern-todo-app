@@ -1,9 +1,9 @@
 # Todo APP (using MERN Stack)
 
-M - Mongodb  
-E - Express.js  
-R - React.js  
-N - Node.js
+**M - Mongodb**  
+**E - Express.js**  
+**R - React.js**  
+**N - Node.js**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
