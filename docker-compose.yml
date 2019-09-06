@@ -12,7 +12,7 @@ services:
     image: node:10
     restart: always
     ports:
-      - 9000:9000
+      - 3000:3000
     links:
       - mongodb
     networks:
@@ -21,7 +21,7 @@ services:
     image: node:10
     restart: always
     ports:
-      - 3000:3000
+      - 80:80
     volumes:
       - ./client:/client
       - /client/node_modules
